@@ -73,3 +73,62 @@ table(BMI.Category)
 
 table(Sleep.Disorder)
 
+## Interpretations ##
+
+#Sleep duration increases significantly by 0.027 units for every unit
+#increase in age, adjusting for everything else.
+
+#Sleep duration increases significantly by .83 units for doctors
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .78 units for engineers
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .73 units for lawyers
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .24 units for nurses
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by 1.45 units for sales reps
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .63 units for salesperson
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .46 units for scientists
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .63 units for software-engineers
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .29 units for teachers
+#Vs. accountants, adjusting for everything else.
+
+#Sleep duration increases significantly by .29 units for every unit
+#increase in quality of sleep score, adjusting for everything else.
+
+#Sleep duration increases significantly by .009 units for every unit
+#increase in physical activity level score, adjusting for everything else.
+
+#Sleep duration decreases significantly by .16 units for every unit
+#increase in stress level score, adjusting for everything else.
+
+#Sleep duration decreases significantly by .60 units for obese
+#Vs. normal weight, adjusting for everything else.
+
+#Sleep duration decreases significantly by .34 units for overweight
+#Vs. normal weight, adjusting for everything else.
+
+#Sleep duration increases significantly by .033 units for every unit
+#increase in heart rate, adjusting for everything else.
+
+#Sleep duration decreases significantly by .0001 units for every unit
+#increase in daily steps, adjusting for everything else.
+
+#Sleep duration decreases significantly by .121 units for every unit
+#increase in systolic reading, adjusting for everything else.
+
+#Sleep duration increases significantly by .13 units for every unit
+#increase in diastolic reading, adjusting for everything else.
+
